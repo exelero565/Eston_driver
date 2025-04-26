@@ -4,6 +4,10 @@
 This repository contains a Jupyter Notebook performing Exploratory Data Analysis (EDA) on the Estonian Driving Licenses dataset for years 2021–2025.
 
 ## Dataset
+All CSV snapshot files are included in the data/ folder of this repository. To verify, you can run:
+```
+ls data/*.csv
+```
 
 The data is available via Kaggle:
 
@@ -34,7 +38,7 @@ conda activate eda-estonian-licenses
 ## Project Structure
 
 ```
-├── data/                   # Place downloaded CSV snapshots here
+├── data/                   
 │   ├── jl_2021-01-01.csv
 │   ├── jl_2022-01-01.csv
 │   ├── jl_2023-01-01.csv
