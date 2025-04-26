@@ -1,4 +1,5 @@
 # Estonian Driving Licenses EDA (2021–2025)
+![image](https://github.com/user-attachments/assets/56147d39-ed76-4ff1-b177-39b027e49e9a)
 
 This repository contains a Jupyter Notebook performing Exploratory Data Analysis (EDA) on the Estonian Driving Licenses dataset for years 2021–2025.
 
