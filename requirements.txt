@@ -1,0 +1,10 @@
+# Core data-analysis libraries
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+
+# If you ever want to run the clustering example:
+scikit-learn>=1.2.0
+
+# Jupyter to run the notebook
+jupyter>=1.0.0
